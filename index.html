@@ -1,0 +1,46 @@
+<!-- Name: Utsav Bajracharya
+Date: 11/25/2023 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Quiz App</title>
+    <link rel="stylesheet" type="text/css" href= "styles.css">
+</head>
+<body>
+    <!-- Main quiz div quiz-container  -->
+    <div class="quiz-container" id="quiz">
+        <h1>Simple Quiz</h1>
+        <div class="quiz-header">
+            <!-- Question for the quiz -->
+            <h2 id="question">Question</h2> 
+            <!-- Option list for the quiz questions with radio type input  -->
+            <ul>
+                <li>
+                    <input type="radio" name = "answer" id = "a" class = "answer">
+                    <label for="a" id="option_a">Answer</label>
+                </li>
+                <li>
+                    <input type="radio" name = "answer" id = "b" class = "answer">
+                    <label for="b" id="option_b">Answer</label>
+                </li>
+                <li>
+                    <input type="radio" name = "answer" id = "c" class = "answer">
+                    <label for="c" id="option_c">Answer</label>
+                </li>
+                <li>
+                    <input type="radio" name = "answer" id = "d" class = "answer">
+                    <label for="d" id="option_d">Answer</label>
+                </li>
+            </ul>
+        </div>
+        <!-- Sumbit button for quiz app -->
+        <div class="button"> 
+            <button id="submit" class="btn">Submit</button>
+        </div>   
+    </div>
+    <!-- Javascript to change the questions to generate and style quiz questions and options -->
+    <script src="script.js"></script>
+</body>
+</html>

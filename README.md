@@ -1,2 +1,3 @@
 # AdvancedQuizApp
-Simple quiz app with question, answers and score
+
+Quiz app with question, answers and score
