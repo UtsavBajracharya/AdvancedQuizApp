@@ -1,8 +1,8 @@
 # AdvancedQuizApp
 
-Project: Complex quiz webpage using HTML, advanced CSS techniquesa and JavaScript
+Project: Complex quiz webpage using HTML, advanced CSS techniques and JavaScript
 
-Contents
+Contents and features
 1) Quiz Container
 2) Generated Questions
 3) Advanced CSS Layout
