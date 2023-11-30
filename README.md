@@ -16,3 +16,5 @@ Contents and features:
 9) Internationalization
 10) Cross-browser Compatibility
 11) Documentation and Comments
+
+made changes
