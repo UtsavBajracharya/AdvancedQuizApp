@@ -17,4 +17,4 @@ Contents and features:
 10) Cross-browser Compatibility
 11) Documentation and Comments
 
-changes made again
+
